@@ -1,0 +1,22 @@
+html {
+    font-size: 10px;
+    line-height: normal;
+    word-spacing: normal;
+}
+
+html, body { height: 100%; }
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #44b;
+    opacity: 0.5;
+}
+
+div#main {
+    margin: auto;
+    width: 1000px;
+    height: 800px;
+    background-image: url("file:///mnt/Study/Code/icodethis/Ch1/images/bg-img.jpg");
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+}
