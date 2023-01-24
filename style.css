@@ -15,7 +15,7 @@ div#main {
     margin: auto;
     width: 1100px;
     height: 800px;
-    background-image: url("file:///mnt/Study/Code/icodethis/Ch1/images/bg-img.jpg");
+    background-image: url("images/bg-img.jpg");
     background-repeat:no-repeat;
     background-size: 100% 100%;
 }
@@ -33,7 +33,7 @@ div#banner {
     width: 845px;
     height: 88px;
     background-color: rgb(10, 12, 11);
-    background-image: url("file:///mnt/Study/Code/icodethis/Ch1/images/banner1.jpg");
+    background-image: url("images/banner1.jpg");
     background-repeat:no-repeat;
     background-size: 22%;
     padding: 34px;
